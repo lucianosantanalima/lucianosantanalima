@@ -31,7 +31,9 @@ Profissional de **Dados e Inteligência Artificial** com graduação em Análise
 
 **Cloud & BI**
 
-![Cloud](https://img.shields.io/badge/Cloud%20AWS%20%7C%20GCP%20%7C%20Azure-7f77dd?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-7f77dd?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-7f77dd?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-7f77dd?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-7f77dd?style=flat-square&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-7f77dd?style=flat-square&logo=tableau&logoColor=white)
 
