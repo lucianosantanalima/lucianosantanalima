@@ -1,6 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0a2540&amp;height=180&amp;section=header&amp;text=Luciano%20Santana%20Lima&amp;fontSize=36&amp;fontColor=e6edf3&amp;fontAlignY=40&amp;desc=Data%20%26%20AI%20Professional&amp;descAlignY=58&amp;descColor=8b949e)
+# Luciano Sant'Ana Lima
+
+### Data & AI Professional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucianosantanalima-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianosantanalima/)
+[![GitHub](https://img.shields.io/badge/GitHub-lucianosantanalima-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lucianosantanalima)
 
 </div>
 
@@ -26,7 +31,7 @@ Profissional de **Dados e Inteligência Artificial** com graduação em Análise
 **Data Engineering & Big Data**
 
 ![SQL](https://img.shields.io/badge/SQL-378add?style=flat-square&logo=postgresql&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-378add?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-378add?style=flat-square&logo=apachespark&logoColor=white)
 ![Engenharia de Dados](https://img.shields.io/badge/Engenharia%20de%20Dados-378add?style=flat-square&logo=apacheairflow&logoColor=white)
 
 **Cloud & BI**
@@ -49,26 +54,8 @@ Profissional de **Dados e Inteligência Artificial** com graduação em Análise
 
 ### 📊 GitHub Stats
 
-<div align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=lucianosantanalima&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=1d9e75&icon_color=378add&text_color=8b949e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lucianosantanalima&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=1d9e75&text_color=8b949e)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lucianosantanalima&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=161b22&amp;title_color=1d9e75&amp;icon_color=378add&amp;text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianosantanalima&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=161b22&amp;title_color=1d9e75&amp;text_color=8b949e" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucianosantanalima&theme=github-dark-blue&hide_border=true&background=161b22&stroke=21262d&ring=1d9e75&fire=378add&currStreakLabel=8b949e)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianosantanalima&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=161b22&amp;stroke=21262d&amp;ring=1d9e75&amp;fire=378add&amp;currStreakLabel=8b949e" />
-
-</div>
-
----
-
-### 📬 Contato / Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucianosantanalima-378add?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucianosantanalima/)
-[![GitHub](https://img.shields.io/badge/GitHub-lucianosantanalima-8b949e?style=flat-square&logo=github)](https://github.com/lucianosantanalima)
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a2540,100:0d1117&amp;height=100&amp;section=footer)
