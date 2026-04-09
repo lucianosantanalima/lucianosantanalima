@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a2540&height=180&section=header&text=Luciano%20Santana%20Lima&fontSize=36&fontColor=e6edf3&fontAlignY=40&desc=Data%20%26%20AI%20Professional&descAlignY=58&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0a2540&amp;height=180&amp;section=header&amp;text=Luciano%20Santana%20Lima&amp;fontSize=36&amp;fontColor=e6edf3&amp;fontAlignY=40&amp;desc=Data%20%26%20AI%20Professional&amp;descAlignY=58&amp;descColor=8b949e)
 
 </div>
 
@@ -51,14 +51,14 @@ Profissional de **Dados e Inteligência Artificial** com graduação em Análise
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lucianosantanalima&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=1d9e75&icon_color=378add&text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianosantanalima&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=1d9e75&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lucianosantanalima&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=161b22&amp;title_color=1d9e75&amp;icon_color=378add&amp;text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianosantanalima&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=161b22&amp;title_color=1d9e75&amp;text_color=8b949e" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianosantanalima&theme=github-dark-blue&hide_border=true&background=161b22&stroke=21262d&ring=1d9e75&fire=378add&currStreakLabel=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianosantanalima&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=161b22&amp;stroke=21262d&amp;ring=1d9e75&amp;fire=378add&amp;currStreakLabel=8b949e" />
 
 </div>
 
@@ -71,4 +71,4 @@ Profissional de **Dados e Inteligência Artificial** com graduação em Análise
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a2540,100:0d1117&amp;height=100&amp;section=footer)
